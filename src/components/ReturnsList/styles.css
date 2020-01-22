@@ -1,0 +1,13 @@
+.colorBlk {  color: black }
+.colorRed {  color: red }
+table, td, th { 
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    width: 30%;
+    margin: 10px 7px;
+  }
+td, tr { 
+    padding: 5px;
+}
